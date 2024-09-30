@@ -4,3 +4,7 @@
 ## 使用方法
 1. 打开Spotify设置的 `点击关闭按钮时，最小化Spotify窗口` 。
 2. 将 Spotify Launcher 替换掉桌面或开始菜单的Spotify图标。
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=zhangtony239/Spotify-Launcher&type=Date)](https://star-history.com/#zhangtony239/Spotify-Launcher&Date)
