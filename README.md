@@ -1,6 +1,4 @@
-# Spotify-Launcher
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzhangtony239%2FSpotify-Launcher.svg?type=shield&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzhangtony239%2FSpotify-Launcher?ref=badge_shield&issueType=license)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzhangtony239%2FSpotify-Launcher.svg?type=shield&issueType=security)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzhangtony239%2FSpotify-Launcher?ref=badge_shield&issueType=security)
+# Spotify-Launcher [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzhangtony239%2FSpotify-Launcher.svg?type=shield&issueType=security)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzhangtony239%2FSpotify-Launcher?ref=badge_shield&issueType=security)
 
 一款基于AutoHotkey打包的Spotify启动器，用于解决其Alt+F4不留后台的问题。<br/>
 有一说一，个人感觉这本应该是spotify正常的操作逻辑，而不是还需要这样一个额外的脚本。**如果你也认同，请点亮star让世界看见！**
